@@ -7,7 +7,7 @@ A= [0, 1, 0; 0, 0, 1; -1, -1, -2];
 B= [0; 0; 1];
 
 %time step/ smapling step
-dT=2;
+dT=0.1;
 
 %initial conditions
 X0 = [2; 0; 0];
