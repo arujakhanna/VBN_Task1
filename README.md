@@ -11,7 +11,8 @@ the code moves thus:
 5) the file func1.m contains the diff equation as well as the input function
 
 For running:
-a) Run main_task1 directly to obtain phi and tau values
-b) Run rk4.m, ide45taskA.m, and analytical.m by themselves to obtain plots
-c) the initial condition, array initialization, and function codes can be found separately in the file but need not be run run seprately to implement the codes above
-d) time step and duration can be altered in the initialization code
+
+1) Run main_task1 directly to obtain phi and tau values
+2) Run rk4.m, ide45taskA.m, and analytical.m by themselves to obtain plots
+3) the initial condition, array initialization, and function codes can be found separately in the file but need not be run run seprately to implement the codes above
+4) time step and duration can be altered in the initialization code
