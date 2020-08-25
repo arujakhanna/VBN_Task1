@@ -1,3 +1,4 @@
+main_task1;
 %RungeKutta discretisation
 
 for i=1:1:n
