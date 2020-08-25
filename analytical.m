@@ -1,3 +1,4 @@
+main_task1;
 %discrete time model
 %X(k+1) = phi * X(k) + tau * U(k)
 
