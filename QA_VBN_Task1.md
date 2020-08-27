@@ -46,20 +46,20 @@ For scripts, Code Analyzer cannot determine whether the array was preallocated b
 Suggested action: It might also be appropriate to suppress this message as the array was preallocated, using the zeros function, in array_initialization.m
 2. line 11: There is a spelling error in the comment it should be interaction* instead.
 
-**D. General Comments on the whole*
+**D. General Comments on the whole**
 
 1. The functions ran well without any errors and were giving outputs for the testcases that I tried out. 
 2. No logical errors were found. 
 3. Could try and refine the comments more to be a bit explanatory.
 4. The README file, according to the QA Guidelines, should be made in a fashion like this:
 
-The following must be documented in the corresponding README file of the code which involves the use of a scientific/mathematical functions of MATLAB:
+*The following must be documented in the corresponding README file of the code which involves the use of a scientific/mathematical functions of MATLAB:
 Input to the function, and the data structures it allows
 Description of the function
 Mathematical features of the function
 Eg: Method of numerical integration used in ode45
 Singularities of the function, if any, and how the function behaves for such inputs
-The output of the function, the data structure it uses, and the format
+The output of the function, the data structure it uses, and the format*
 
 Also, would recommend making a README for each of the 3 algorithms you are using,  if you wish, just for better documentation.
 
