@@ -26,6 +26,8 @@ VBN_Task1
 > Any modifications/additions/deletions to be made to the code. It also includes any flaws/mistakes that need to be corrected in the code. I have compiled all the suggestions for all the functions in this one document since the functions are very short and there was hardly anything to correct in most of them.
 
 **A. initial_cond.m**
+
+
 1.line 9: There is a spelling error in the comment, it should be sampling* step
 2. Suggestion: For better clarity it is suggested to name constants as X_0, T_0 , T_f
 3. All constants are to be defined in uppercase according to the QA guidelines.
