@@ -50,7 +50,12 @@ For scripts, Code Analyzer cannot determine whether the array was preallocated b
 Suggested action: It might also be appropriate to suppress this message as the array was preallocated, using the zeros function, in array_initialization.m
 2. line 11: There is a spelling error in the comment it should be interaction* instead.
 
-**D. General Comments on the whole**
+**D. The plots**
+1. According to the QA Guidelines, 
+*LateX must be used as the interpreter for title, axes,labels, and legends.*
+2. Recommended to label the axes and different plots. Put a title for the different algorithms as well.
+
+**E. General Comments on the whole**
 
 1. The functions ran well without any errors and were giving outputs for the testcases that I tried out. 
 2. No logical errors were found. 
